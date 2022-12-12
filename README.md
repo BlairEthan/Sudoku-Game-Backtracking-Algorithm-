@@ -32,7 +32,7 @@ Original Board along with the Completed Results <br/>
 <img src="Original board along with solved results.png" height="80%" width="80%" />
 <br />
 <br />
-By inserting the "print" function wihin the "solve" function we are able to see the entire solving process. <br/>
+By inserting the "print" function within the "solve" function we are able to see the entire solving process. <br/>
 <img src="Sudoku solving pt.1.png" height="80%" width="80%" />
 <img src="Sudoku solving pt.2.png" height="80%" width="80%" />
 <br />
