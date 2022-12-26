@@ -37,7 +37,9 @@ By inserting the "print" function within the "solve" function we are able to see
 <img src="Sudoku solving pt.2.png" height="80%" width="80%" />
 <br />
 <br />
-<br><h3>I also implemented a GUI for a more completed version of the code:</br></h3>
-<img srs="Sudoku GUI.png" height="80%" width="80%" />
+<p align="center">I also implemented a GUI for a more completed version of the code:</p>
+<p align="center"><img src="Sudoku GUI.png" height="50%" width="50%" /></p>
+<br />
+<br />
 <br><h3><i>(Source code is in repository folder).</br></h3></i>
 </p>
